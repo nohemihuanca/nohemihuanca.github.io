@@ -8,6 +8,8 @@ date: 2021-01-01
 location: "City, Country"
 ---
 
+Courses
+-------
 
 LIFE 120L: Fundamentals of Biology I (Spring 2016)
 
