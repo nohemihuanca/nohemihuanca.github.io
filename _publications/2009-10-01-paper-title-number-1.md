@@ -1,15 +1,6 @@
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
+Huanca-Nunez, N, Chazdon, R., Russo, SE. (2021). Seed rain-successional feedbacks. In press. Ecology. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Terborgh, J., Huanca-Nunez, N., Feeley, K., Beck, H. (2020). Gaps present a trade‐off between dispersal and establishment that nourishes species diversity. Ecology 101(5):e02996  10.1002/ecy.2996  
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Terborgh, J., Huanca-Nuñez, N., Alvarez-Loayza, P., Cornejo-Valverde, F. (2017). Gaps contribute tree diversity to a tropical floodplain forest. Ecology, 98: 2895-2903. doi:10.1002/ecy.1991
+
