@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![image](https://user-images.githubusercontent.com/20261252/112327567-87b01380-8c83-11eb-9643-5f90eb3a268b.png)
+![image](https://github.com/nohemihuanca/nohemihuanca.github.io/blob/master/images/Picture1.png)
 
 A data-driven personal website
 ======
