@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-![image](https://github.com/nohemihuanca/nohemihuanca.github.io/blob/master/images/bio_photo10.jpg)
+![image](https://github.com/nohemihuanca/nohemihuanca.github.io/blob/master/images/arbol2.jpg)
+
+
 
 
 
