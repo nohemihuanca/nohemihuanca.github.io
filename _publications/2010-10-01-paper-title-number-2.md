@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Gaps present a trade‐off between dispersal and establishment that nourishes species diversity"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 
+date: 2020-10-01
+venue: 'Ecology'
+paperurl: '10.1002/ecy.2996'
+citation: 'Terborgh, J., Huanca-Nunez, N., Feeley, K., Beck, H. (2020). &quot;Gaps present a trade‐off between dispersal and establishment that nourishes species diversity 101(5):.&quot; <i>Ecology</i>. e02996.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
