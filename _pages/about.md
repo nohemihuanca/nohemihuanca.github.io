@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![image](https://github.com/nohemihuanca/nohemihuanca.github.io/blob/master/images/Picture1.png)
+![image](https://github.com/nohemihuanca/nohemihuanca.github.io/blob/master/images/habitat.jpg)
 
 About me
 ======
