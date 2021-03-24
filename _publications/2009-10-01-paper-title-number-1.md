@@ -6,7 +6,7 @@ excerpt:
 date: 2020-10-01
 venue: 'Ecology'
 paperurl: in presss
-citation: '**Huanca-Nunez, N**, Chazdon, R., Russo, SE. (2021). &quot;Seed rain-successional feedbacks.&quot; <i>Ecology</i>. in press.'
+citation: 'Huanca-Nunez, N, Chazdon, R., Russo, SE. (2021). &quot;Seed rain-successional feedbacks.&quot; <i>Ecology</i>. in press.'
 ---
 
 
