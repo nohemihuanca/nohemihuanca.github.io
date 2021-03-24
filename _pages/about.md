@@ -10,7 +10,7 @@ redirect_from:
 
 ![https://github.com/nohemihuanca/nohemihuanca.github.io/blob/master/images/Picture1.png]
 
-A data-driven personal website
+About me
 ======
 I am interested in the undesrtanding of the origins and maintenance of high levels of tropical species diversity, plant ecology, plant-animal interactions, and regeneration dynamics of tropical forests.
 
