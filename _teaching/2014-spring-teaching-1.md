@@ -3,9 +3,7 @@ title:'Undegraduate Courses'
 permalink: /teaching/2015-spring-teaching-1
 date: 2021-01-01
 location: "City, Country"
-
 ---
-
 
 LIFE 120L: Fundamentals of Biology I (Spring 2016)
 
