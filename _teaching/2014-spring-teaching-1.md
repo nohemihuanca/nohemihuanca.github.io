@@ -1,12 +1,4 @@
----
-title: "Teaching experience"
-collection: 
-type:
-permalink: /teaching/2015-spring-teaching-1
-venue: 
-date: 2021-01-01
-location: "City, Country"
----
+
 
 Courses
 -------
