@@ -9,4 +9,3 @@ paperurl: '10.1002/ecy.2996'
 citation: 'Terborgh, J., Huanca-Nunez, N., Feeley, K., Beck, H. (2020). &quot;Gaps present a trade‐off between dispersal and establishment that nourishes species diversity:.&quot; <i>Ecology</i>. 101(5)e02996.'
 ---
 
-Recommended citation: Terborgh, J., Huanca-Nunez, N., Feeley, K., Beck, H. (2020). "Gaps present a trade‐off between dispersal and establishment that nourishes species diversity." <i>Ecology</i>. 101(5)e02996.
