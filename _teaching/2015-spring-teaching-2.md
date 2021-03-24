@@ -4,7 +4,7 @@ collection: teaching
 type: 
 permalink: /teaching/2015-spring-teaching-1
 venue: 
-date: 2017
+date: 2015
 location: "City, Country"
 ---
 coming soon...
