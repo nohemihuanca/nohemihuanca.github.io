@@ -10,8 +10,6 @@ citation: 'Huanca-Nunez, N, Chazdon, R., Russo, SE. (2021). &quot;Seed rain-succ
 ---
 
 
-Recommended citation: Huanca-Nunez, N, Chazdon, R., Russo, SE. (2021). "Seed rain-successional feedbacks." <i>Ecology</i>. in press.
-
 
 
 
