@@ -1,12 +1,4 @@
----
-title: "Teaching experience"
-collection: 
-type:
-permalink: /teaching/2015-spring-teaching-1
-venue: 
-date: 2021-01-01
-location: "City, Country"
----
+## TEACHING
 
 # LIFE 120L: Fundamentals of Biology I (Spring 2016)
 
