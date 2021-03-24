@@ -3,7 +3,7 @@ title: "Teaching experience 2"
 collection: teaching
 type: 
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: 
 date: 2017
 location: "City, Country"
 ---
