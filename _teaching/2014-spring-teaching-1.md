@@ -1,8 +1,8 @@
 ---
-title: Teaching experience
-collection: 
+title: 'Teaching experience'
+collection: 'Teaching'
 type:
-permalink:
+permalink: /teaching/2015-spring-teaching-1
 venue: 
 date: 2021-01-01
 location: "City, Country"
