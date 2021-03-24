@@ -1,3 +1,12 @@
+---
+title: 
+collection: 
+type:
+permalink:
+venue: 
+date: 2021-01-01
+location: "City, Country"
+---
 
 Courses
 -------
