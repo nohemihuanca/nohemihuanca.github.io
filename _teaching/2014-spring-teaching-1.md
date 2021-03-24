@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience"
 collection: teaching
-type: "Undergraduate course"
+type:
 permalink: /teaching/2015-spring-teaching-1
 venue: 
 date: 2016-01-01 - 2020-01-01
