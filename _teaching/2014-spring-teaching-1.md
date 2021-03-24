@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: 
-date: 
+date: 2016-01-01 - 2020-01-01
 location: "City, Country"
 ---
 
