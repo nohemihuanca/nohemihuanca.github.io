@@ -18,6 +18,7 @@ Currenlty my research is focused on the early life stages of trees, namely seeds
 
 Research
 ======
+
 Seed rain across the succesional scale
 ------
 
@@ -27,6 +28,6 @@ Mammals influence in the regeneration of tropical forests
 Negative density dependence across the succesional scale 
 ------
 
-Root economical spectrum (RES) analogous to the Leaf Economic spectrum (LES) across forests of different successional stages 
+Root economical spectrum (RES) analogous to the Leaf Economic spectrum (LES) across the succesional scale 
 ------
 
