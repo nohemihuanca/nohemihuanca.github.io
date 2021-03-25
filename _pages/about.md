@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![image](/images/arbol2.jpg) ![image](/images/arbol2.jpg)
+![image](/images/arbol2.jpg)
 
 
 About me
