@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![image] (/images/arbol2.JPG)
+![image] (/images/arbol2.jpg)
 
 
 About me
