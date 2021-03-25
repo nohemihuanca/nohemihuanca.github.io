@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![image](https://github.com/nohemihuanca/nohemihuanca.github.io/images/arbol2.jpg)
-
-
-
-
+<img src='/images/arbol2.jpg'>
 
 
 About me
