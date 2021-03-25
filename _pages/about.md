@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![image](/images/arbol2.jpg)
+![image](/images/habitat_pano.jpg)
 
 About me
 ======
