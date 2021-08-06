@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. Candidate, Ecology and Evolutionary Biology. Advisor: Dr. S.E. Russo. University of Nebraska-Lincoln 2021 (expected) 	
-* M.SC, University of Nebraska-Lincoln 2016
+* M.SC, University of Nebraska-Lincoln 2017
 * A.B. Biology, with Honors; Universidad Nacional de San Antonio Abad del Cusco, Perú 2011
 
 
