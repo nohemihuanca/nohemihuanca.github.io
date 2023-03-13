@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nohemi Huanca-Nunez"
+title                    : "Nohemi Huanca-Nunez, PhD"
 title_separator          : "-"
 name                     : &name "Nohemi Huanca-Nunez"
-description              : &description "Ph.D Candidate, University of Nebraska - Lincoln. "
+description              : &description "YIBS Postdoctoral Associate at Yale University. "
 url                      : https://nohemihuanca.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nohemihuanca/nohemihuanca.github.io"
