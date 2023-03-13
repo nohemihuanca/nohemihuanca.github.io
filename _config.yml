@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nohemi Huanca-Nunez, PhD"
+title                    : "Nohemi Huanca-Nunez, Ph.D."
 title_separator          : "-"
 name                     : &name "Nohemi Huanca-Nunez"
 description              : &description "YIBS Postdoctoral Associate at Yale University. "
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/nohemi-huanca-nunez/"
+  linkedin         : "https://www.linkedin.com/in/nohemi-huanca-nunez"
   orcid            : "https://orcid.org/0000-0002-4603-827X"
   pinterest        :
   soundcloud       :
