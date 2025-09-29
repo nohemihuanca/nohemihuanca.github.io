@@ -16,10 +16,23 @@ Education
 * A.B. Biology, with Honors; Universidad Nacional de San Antonio Abad del Cusco, Perú 2011
 
 
-Work experience
+Professional Appoitments
 ======
+2025-present		Associate Research Scientist, Yale University.
+                Faculty Mentor: Dr. Liza Comita
 
-  
+2024- 2025 	    Brown Postdoctoral Fellowship, Postdoctoral Research Associate, Yale School of the Environment, Yale University
+                Faculty Mentor: Dr. Liza Comita
+
+2022-2024	      Gaylord Donnelley Fellowship, Postdoctoral Research Associate, Yale Institute for Biospheric Studies,         
+                Yale University 
+
+Spring 2022			NASA Develop program Internship
+
+2017-2021			  Teaching Assistant, Department of Biological Sciences, 
+                University of Nebraska-Lincoln
+
+
 Skills
 ======
 
@@ -30,10 +43,6 @@ Publications
   {% endfor %}</ul>
   
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 

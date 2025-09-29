@@ -12,21 +12,19 @@ redirect_from:
 
 About me
 ======
-I am interested in the understanding of the origins and maintenance of high levels of tropical species diversity, plant ecology, plant-animal interactions, and regeneration dynamics of tropical forests.
-
-Currently my research is focused on the early life stages of trees, namely seeds and young seedlings. I aim to quantify how local factors shape regeneration in secondary forests using a combination of observational and experimental approaches. My goal is to identify factors affecting regeneration processes in secondary forests community assembly, such as how variation in tree species composition and abundance affect seed rain arriving in secondary forest fragments. Also, how trophic interactions involving mammalian herbivores affect the probability of successful seedling establishment.
+I am interested in understanding how tropical forests maintain their extraordinary biodiversity, with a focus on plant ecology, plant–animal interactions, and regeneration dynamics. My research looks closely at the early life stages of trees, especially seedlings, as a way to uncover the processes that shape community assembly. I combine long-term monitoring, experiments, and functional trait data, considering both above and belowground traits, to reveal how demographic trade-offs and plant interactions influence survival and coexistence. More recently, I am focusing also on AI approaches that combine imagery, hyperspectral reflectance, and species descriptions to accelerate seedling identification and scale trait–demography frameworks for forest restoration.
 
 Research
 ======
 
-Seed rain across the successional scale
+Dispersal and Seed rain-Successional Feedbacks
 ------
 
-Mammals influence in the regeneration of tropical forests
+Conspecific density dependence and species interactions
 ------
 
-Negative density dependence across the successional scale
+Functional traits and demographic trade-offs
 ------
 
-Root economical spectrum (RES) analogous to the Leaf Economic spectrum (LES) across the successional scale
+Emerging approaches: AI and seedling identification
 ------
