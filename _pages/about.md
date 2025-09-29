@@ -17,7 +17,7 @@ I am interested in understanding how tropical forests maintain their extraordina
 Research
 ======
 
-Dispersal and Seed rain-Successional Feedbacks
+Dispersal and Seed rain-Successional Feedbacks: 
 ------
 
 Conspecific density dependence and species interactions
