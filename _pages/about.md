@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![image](/images/together.jpg)
+![image](/images/together2.jpg)
 
 About me
 ======
@@ -26,5 +26,5 @@ Conspecific density dependence and species interactions
 Functional traits and demographic trade-offs
 ------
 
-Emerging approaches: AI and seedling identification
+Emerging approaches: AI, seedling ID and forest function
 ------
