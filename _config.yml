@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nohemi Huanca-Nunez, Ph.D."
 title_separator          : "-"
 name                     : &name "Nohemi Huanca-Nunez"
-description              : &description "YIBS Postdoctoral Associate at Yale University. "
+description              : &description "Associate Research Scientist at Yale University. "
 url                      : https://nohemihuanca.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nohemihuanca/nohemihuanca.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nohemi Huanca Nunez"
   avatar           : "bio_photo10.jpg"
-  bio              : "YIBS Postdoctoral Associate at Yale University"
-  location         : "USA"
-  employer         :
+  bio              : "Associate Research Scientist"
+  location         : "Connecticut, USA"
+  employer         : "Yale University"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "nohemi.huanca@yale.edu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "nohemihuanca"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
