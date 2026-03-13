@@ -36,3 +36,11 @@ Research
   <summary><strong>Emerging approaches: AI, seedling ID and forest function</strong></summary>
   <p>More recently, I have been developing AI-based approaches to improve seedling identification and expand the scale of forest monitoring. By combining imagery, hyperspectral reflectance, and species descriptions, I aim to build tools that accelerate biodiversity assessments and connect trait-based ecology with forest restoration and ecosystem function.</p>
 </details>
+
+Selected News and Outreach
+======
+
+- [Fast-growing and long-lived trees suffer most from their own kind](https://jecologyblog.com/2026/02/26/fast-growing-and-long-lived-trees-suffer-most-from-their-own-kind/)
+- [Environmental Leadership and Mentoring Certificate Program](https://environment.yale.edu/research/environmental-leadership-and-mentoring-certificate-program)
+- [Eastern hosts 'Humans and the Environment' symposium](https://www.easternct.edu/news/_stories-and-releases/2023/04-april/eastern-hosts-symposium-on-environmental-sustainability.html)
+- [AI-powered identification of tropical tree seedlings using hyperspectral and 3D data](https://planetarysolutions.yale.edu/ai-powered-identification-of-tropical-tree-seedlings-using-hyperspectral-and-3d-data)
