@@ -36,13 +36,14 @@ Spring 2022			NASA Develop program Internship
 Skills
 ======
 
-Publications
+Selected Publications
 ======
-  <ul>{% for post in site.publications %}
+For a full publication list, see [Google Scholar](https://scholar.google.com/citations?user=cp5OMEIAAAAJ&hl=en&oi=ao).
+
+  <ul>{% assign recent_publications = site.publications | reverse | slice: 0, 4 %}{% for post in recent_publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
   
 
   
-
