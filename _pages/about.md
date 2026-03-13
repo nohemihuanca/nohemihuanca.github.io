@@ -37,7 +37,7 @@ Research
   <p>More recently, I have been developing AI-based approaches to improve seedling identification and expand the scale of forest monitoring. By combining imagery, hyperspectral reflectance, and species descriptions, I aim to build tools that accelerate biodiversity assessments and connect trait-based ecology with forest restoration and ecosystem function.</p>
 </details>
 
-Selected News and Outreach
+More
 ======
 
 - [Fast-growing and long-lived trees suffer most from their own kind](https://jecologyblog.com/2026/02/26/fast-growing-and-long-lived-trees-suffer-most-from-their-own-kind/)
