@@ -3,7 +3,7 @@ main:
   - title: "Home"
     
   - title: "Publications"
-    url: /publications/ 
+    url: https://scholar.google.com/citations?user=cp5OMEIAAAAJ&hl=en&oi=ao
         
   - title: "Blog Posts"
     url: /year-archive/
