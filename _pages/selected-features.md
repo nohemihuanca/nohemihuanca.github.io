@@ -1,9 +1,12 @@
 ---
 layout: archive
-title: "Selected Features"
+title:
 permalink: /selected-features/
 author_profile: true
 ---
+
+Selected Features
+======
 
 - [Fast-growing and long-lived trees suffer most from their own kind](https://jecologyblog.com/2026/02/26/fast-growing-and-long-lived-trees-suffer-most-from-their-own-kind/)
 - [Environmental Leadership and Mentoring Certificate Program](https://environment.yale.edu/research/environmental-leadership-and-mentoring-certificate-program)
