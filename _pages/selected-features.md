@@ -5,9 +5,6 @@ permalink: /selected-features/
 author_profile: true
 ---
 
-Selected Features
-======
-
 - [Fast-growing and long-lived trees suffer most from their own kind](https://jecologyblog.com/2026/02/26/fast-growing-and-long-lived-trees-suffer-most-from-their-own-kind/)
 - [Environmental Leadership and Mentoring Certificate Program](https://environment.yale.edu/research/environmental-leadership-and-mentoring-certificate-program)
 - [Eastern hosts 'Humans and the Environment' symposium](https://www.easternct.edu/news/_stories-and-releases/2023/04-april/eastern-hosts-symposium-on-environmental-sustainability.html)
