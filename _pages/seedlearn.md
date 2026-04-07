@@ -147,7 +147,7 @@ Current AI systems are typically trained on internet images and are not designed
   </div>
   <div class="seedlearn-card">
     <img src="/images/seedlearn-cojoba-rufescens.jpg" alt="Seedling of Cojoba rufescens">
-    <div class="seedlearn-card-caption"><em>Cojoba rufescens</em><br>Fabaceae mimosoideae</div>
+    <div class="seedlearn-card-caption"><em>Cojoba rufescens</em><br>Fabaceae</div>
   </div>
   <div class="seedlearn-card">
     <img src="/images/seedlearn-alseis-blackiana.jpg" alt="Seedling of Alseis blackiana">
