@@ -168,15 +168,15 @@ The project is built on a curated dataset of tropical seedling images collected 
 
 These data provide a unique foundation for developing and evaluating AI models in real-world ecological settings.
 
-## Project Foundation
-
-This project builds on prior work supported by the <a href="https://ai.yale.edu/seed-grant-awards-2025">2025 Yale AI Seed Grant program</a>, which helped support early development of the SeedLearn pipeline for AI-based seedling identification. Related work has also been shared through Yale AI venues including the <a href="https://ai.yale.edu/symposium-2025">Yale AI Symposium</a> and in academic research settings.
-
 ## Current Progress
 
 - curated and organized a large seedling image dataset
 - developed initial AI modeling pipelines
 - ongoing model development and evaluation
+
+## Project Support
+
+This project is supported by the <a href="https://ai.yale.edu/seed-grant-awards-2025">2025 Yale AI Seed Grant</a>, which enabled the initial development of the SeedLearn pipeline for AI-based seedling identification.
 
 ## Contact
 
