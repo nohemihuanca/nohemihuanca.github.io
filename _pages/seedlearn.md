@@ -127,7 +127,7 @@ SeedLearn is an interdisciplinary collaboration integrating ecology, artificial 
 
 - <a href="https://nohemihuanca.github.io/">Nohemi Huanca-Nunez</a> — tropical forest ecology and integration of ecological knowledge into AI systems
 - <a href="https://environment.yale.edu/directory/faculty/liza-comita" target="_blank" rel="noopener noreferrer">Liza Comita</a> — tropical forest ecology and long-term forest datasets
-- <a href="https://striresearch.si.edu/quantitative-forest-ecology/lab-member/helene-muller-landau/" target="_blank" rel="noopener noreferrer">Helene Muller-Landau</a> — forest ecology and trait and spectral data integration
+- <a href="https://striresearch.si.edu/quantitative-forest-ecology/lab-member/helene-muller-landau/" target="_blank" rel="noopener noreferrer">Helene Muller-Landau</a> — forest ecology and trait data integration
 - <a href="https://engineering.yale.edu/research-and-faculty/faculty-directory/arman-cohan" target="_blank" rel="noopener noreferrer">Arman Cohan</a> — computer vision and AI methods
 - <a href="https://engineering.yale.edu/research-and-faculty/faculty-directory/holly-rushmeier" target="_blank" rel="noopener noreferrer">Holly Rushmeier</a> — computer graphics and visual computing
 - <a href="https://environment.yale.edu/directory/staff/mitchell-horn" target="_blank" rel="noopener noreferrer">Mitch Horn</a> — AI and data science development and modeling pipeline
