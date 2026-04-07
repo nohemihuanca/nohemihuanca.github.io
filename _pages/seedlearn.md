@@ -39,7 +39,7 @@ author_profile: true
 
 .seedlearn-box img {
   width: 100%;
-  max-width: 700px;
+  max-width: 420px;
   display: block;
   border-radius: 12px;
   margin-top: 0.85rem;
@@ -121,6 +121,19 @@ This creates a major bottleneck for:
 
 Current AI systems are typically trained on internet images and are not designed for these highly complex and data-limited environments. SeedLearn aims to bridge this gap.
 
+## Research Team
+
+SeedLearn is an interdisciplinary collaboration integrating ecology, artificial intelligence, and computer vision.
+
+- <a href="https://nohemihuanca.github.io/">Nohemi Huanca-Nunez</a> — tropical forest ecology and integration of ecological knowledge into AI systems
+- <a href="https://environment.yale.edu/directory/faculty/liza-comita" target="_blank" rel="noopener noreferrer">Liza Comita</a> — tropical forest ecology and long-term forest datasets
+- <a href="https://striresearch.si.edu/quantitative-forest-ecology/lab-member/helene-muller-landau/" target="_blank" rel="noopener noreferrer">Helene Muller-Landau</a> — forest ecology and trait and spectral data integration
+- <a href="https://engineering.yale.edu/research-and-faculty/faculty-directory/arman-cohan" target="_blank" rel="noopener noreferrer">Arman Cohan</a> — computer vision and AI methods
+- <a href="https://engineering.yale.edu/research-and-faculty/faculty-directory/holly-rushmeier" target="_blank" rel="noopener noreferrer">Holly Rushmeier</a> — computer graphics and visual computing
+- <a href="https://environment.yale.edu/directory/staff/mitchell-horn" target="_blank" rel="noopener noreferrer">Mitch Horn</a> — AI and data science development and modeling pipeline
+- <a href="https://nlp.cs.yale.edu/team" target="_blank" rel="noopener noreferrer">Kaili Liu</a> — multimodal AI and knowledge integration
+- <a href="https://environment.yale.edu/directory/faculty/luke-browne" target="_blank" rel="noopener noreferrer">Luke Browne</a> — ecological data processing and data integration
+
 ## The Challenge
 
 <div class="seedlearn-grid">
@@ -142,22 +155,7 @@ Current AI systems are typically trained on internet images and are not designed
   </div>
 </div>
 
-<p class="seedlearn-note"><em>Example of visually similar seedlings from different species.</em></p>
-
-## Approach
-
-SeedLearn develops a multimodal AI framework that integrates:
-
-- image-based recognition of seedlings
-- structured botanical knowledge such as traits, descriptions, and taxonomic keys
-- ecological context from field data
-
-<div class="seedlearn-pipeline">
-  <strong>Simple pipeline diagram placeholder</strong><br>
-  Field images → botanical knowledge → ecological context → biologically informed AI predictions
-</div>
-
-This approach moves beyond purely visual identification toward more biologically informed and interpretable predictions.
+<p class="seedlearn-note"><em>Examples of tropical tree seedlings included in the SeedLearn image dataset.</em></p>
 
 ## Dataset
 
@@ -174,42 +172,15 @@ These data provide a unique foundation for developing and evaluating AI models i
 
 This project builds on prior work supported by the <a href="https://ai.yale.edu/seed-grant-awards-2025">2025 Yale AI Seed Grant program</a>, which helped support early development of the SeedLearn pipeline for AI-based seedling identification. Related work has also been shared through Yale AI venues including the <a href="https://ai.yale.edu/symposium-2025">Yale AI Symposium</a> and in academic research settings.
 
-The collaboration brings together expertise in ecology, botany, and artificial intelligence. We have already developed a proof-of-concept framework that integrates image data with structured biological knowledge, demonstrating feasibility and providing the foundation for continued model development.
-
-## Research Team
-
-SeedLearn is an interdisciplinary collaboration integrating ecology, artificial intelligence, and computer vision.
-
-- <a href="https://nohemihuanca.github.io/">Nohemi Huanca-Nunez</a> — tropical forest ecology and integration of ecological knowledge into AI systems
-- <a href="https://environment.yale.edu/directory/faculty/liza-comita" target="_blank" rel="noopener noreferrer">Liza Comita</a> — tropical forest ecology and long-term forest datasets
-- <a href="https://striresearch.si.edu/quantitative-forest-ecology/lab-member/helene-muller-landau/" target="_blank" rel="noopener noreferrer">Helene Muller-Landau</a> — forest ecology and trait and spectral data integration
-- <a href="https://engineering.yale.edu/research-and-faculty/faculty-directory/arman-cohan" target="_blank" rel="noopener noreferrer">Arman Cohan</a> — computer vision and AI methods
-- <a href="https://engineering.yale.edu/research-and-faculty/faculty-directory/holly-rushmeier" target="_blank" rel="noopener noreferrer">Holly Rushmeier</a> — computer graphics and visual computing
-- <a href="https://environment.yale.edu/directory/staff/mitchell-horn" target="_blank" rel="noopener noreferrer">Mitch Horn</a> — AI and data science development and modeling pipeline
-- <a href="https://nlp.cs.yale.edu/team" target="_blank" rel="noopener noreferrer">Kaili Liu</a> — multimodal AI and knowledge integration
-- <a href="https://environment.yale.edu/directory/faculty/luke-browne" target="_blank" rel="noopener noreferrer">Luke Browne</a> — ecological data processing and data integration
-
 ## Current Progress
 
 - curated and organized a large seedling image dataset
 - developed initial AI modeling pipelines
-- structured botanical knowledge for integration into the system
 - ongoing model development and evaluation
-
-## Future Directions
-
-- improve model accuracy and robustness across sites
-- integrate uncertainty estimation into predictions
-- expand taxonomic resolution from family to genus to species
-- strengthen integration of botanical knowledge and reasoning
-- apply models to restoration and biodiversity monitoring
-
-## Funding and Support
-
-- Yale Planetary Solutions Seed Grant
-- Envisioning AI Seed Grant
-- additional institutional and collaborative support
 
 ## Contact
 
 If you are interested in collaboration, datasets, or applications of this work, please feel free to reach out.
+
+Nohemi Huanca-Nunez  
+<a href="mailto:nohemi.huanca@yale.edu">nohemi.huanca@yale.edu</a>
