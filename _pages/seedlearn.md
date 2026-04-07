@@ -95,7 +95,7 @@ author_profile: true
 
 <section class="seedlearn-hero">
   <h1>🌱 SeedLearn</h1>
-  <div class="seedlearn-tagline">AI-powered identification of tropical tree seedlings</div>
+  <div class="seedlearn-tagline">SeedLearn: Teaching AI to Think Like a Botanist for Plant Species Identification</div>
   <p>SeedLearn is an interdisciplinary project developing AI tools to identify tropical tree seedlings using field images, botanical knowledge, and ecological data.</p>
 </section>
 
