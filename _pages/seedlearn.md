@@ -109,18 +109,6 @@ Seedlings are one of the most difficult life stages to identify in tropical fore
   <img src="/images/seedlearn-capparidastrum-frondosum.jpg" alt="Seedling of Capparidastrum frondosum">
 </div>
 
-## Why This Matters
-
-Tropical forests can contain over 300 species per hectare, and many seedlings look nearly identical despite belonging to different species with distinct ecological roles.
-
-This creates a major bottleneck for:
-
-- biodiversity monitoring
-- forest restoration
-- ecological research
-
-Current AI systems are typically trained on internet images and are not designed for these highly complex and data-limited environments. SeedLearn aims to bridge this gap.
-
 ## Research Team
 
 SeedLearn is an interdisciplinary collaboration integrating ecology, artificial intelligence, and computer vision.
@@ -133,6 +121,18 @@ SeedLearn is an interdisciplinary collaboration integrating ecology, artificial 
 - <a href="https://environment.yale.edu/directory/staff/mitchell-horn" target="_blank" rel="noopener noreferrer">Mitch Horn</a> — AI and data science development and modeling pipeline
 - <a href="https://nlp.cs.yale.edu/team" target="_blank" rel="noopener noreferrer">Kaili Liu</a> — multimodal AI and knowledge integration
 - <a href="https://environment.yale.edu/directory/faculty/luke-browne" target="_blank" rel="noopener noreferrer">Luke Browne</a> — ecological data processing and data integration
+
+## Why This Matters
+
+Tropical forests can contain over 300 species per hectare, and many seedlings look nearly identical despite belonging to different species with distinct ecological roles.
+
+This creates a major bottleneck for:
+
+- biodiversity monitoring
+- forest restoration
+- ecological research
+
+Current AI systems are typically trained on internet images and are not designed for these highly complex and data-limited environments. SeedLearn aims to bridge this gap.
 
 ## The Challenge
 
