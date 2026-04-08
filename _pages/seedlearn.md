@@ -111,11 +111,12 @@ Seedlings are one of the most difficult life stages to identify in tropical fore
 
 ## Research Team
 
-SeedLearn is an interdisciplinary collaboration integrating ecology, artificial intelligence, and computer vision.
+SeedLearn is led by Nohemi Huanca-Nunez and brings together an interdisciplinary team spanning ecology, artificial intelligence, and computer vision.
 
-- <a href="https://nohemihuanca.github.io/">Nohemi Huanca-Nunez</a> — tropical forest ecology and integration of ecological knowledge into AI systems
+- <a href="https://nohemihuanca.github.io/">Nohemi Huanca-Nunez</a> — project lead; tropical forest ecology and integration of ecological knowledge into AI systems
 - <a href="https://environment.yale.edu/directory/faculty/liza-comita" target="_blank" rel="noopener noreferrer">Liza Comita</a> — tropical forest ecology and long-term forest datasets
 - <a href="https://striresearch.si.edu/quantitative-forest-ecology/lab-member/helene-muller-landau/" target="_blank" rel="noopener noreferrer">Helene Muller-Landau</a> — forest ecology and trait data integration
+- <a href="https://www.nybg.org/person/fabian-a-michelangeli/" target="_blank" rel="noopener noreferrer">Fabian Michelangeli</a> — tropical botany, systematics, and biodiversity research
 - <a href="https://engineering.yale.edu/research-and-faculty/faculty-directory/arman-cohan" target="_blank" rel="noopener noreferrer">Arman Cohan</a> — computer vision and AI methods
 - <a href="https://engineering.yale.edu/research-and-faculty/faculty-directory/holly-rushmeier" target="_blank" rel="noopener noreferrer">Holly Rushmeier</a> — computer graphics and visual computing
 - <a href="https://environment.yale.edu/directory/staff/mitchell-horn" target="_blank" rel="noopener noreferrer">Mitch Horn</a> — AI and data science development and modeling pipeline
