@@ -103,8 +103,6 @@ author_profile: true
 
 SeedLearn is designed as a broader framework for plant identification in ecologically complex systems. We are starting with tropical tree seedlings because they are one of the most difficult life stages to identify in tropical forests, yet they are critical for understanding forest regeneration, biodiversity, and restoration outcomes.
 
-This first step allows us to build and test the project on a real, expert-curated dataset before expanding to additional plant stages, data types, and applications. In other words, seedlings are the current focus, but they are also the entry point for a larger long-term effort.
-
 <div class="seedlearn-box">
   <strong>Example seedling</strong>
   <p><em>Capparidastrum frondosum</em> (Capparaceae)</p>
@@ -135,7 +133,7 @@ This creates a major bottleneck for:
 - forest restoration
 - ecological research
 
-Current AI systems are typically trained on internet images and are not designed for these highly complex and data-limited environments. SeedLearn aims to bridge this gap.
+Current AI approaches often depend on large, well-labeled image datasets, but that assumption breaks down in real ecosystems where many species are rare and visually similar. In tropical forests, image-only identification is especially difficult, while valuable botanical knowledge from field guides, species descriptions, and taxonomic expertise remains largely underused. SeedLearn aims to bridge this gap.
 
 ## Current Scope and Long-Term Vision
 
