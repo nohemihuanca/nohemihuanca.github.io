@@ -95,13 +95,15 @@ author_profile: true
 
 <section class="seedlearn-hero">
   <h1>🌱 SeedLearn</h1>
-  <div class="seedlearn-tagline">SeedLearn: Teaching AI to Think Like a Botanist for Plant Species Identification</div>
-  <p>SeedLearn is an interdisciplinary project developing AI tools to identify tropical tree seedlings using field images, botanical knowledge, and ecological data.</p>
+  <div class="seedlearn-tagline">Building AI tools for plant identification, grounded in ecology and botanical expertise</div>
+  <p>SeedLearn is an interdisciplinary research project developing AI approaches for plant identification using field images, botanical knowledge, and ecological data. Our current foundation is tropical tree seedlings, where identification is especially difficult and where we already have a strong expert-curated dataset.</p>
 </section>
 
 ## Overview
 
-Seedlings are one of the most difficult life stages to identify in tropical forests, yet they are critical for understanding forest regeneration, biodiversity, and restoration outcomes. SeedLearn addresses this challenge by combining expert-curated ecological datasets with multimodal artificial intelligence approaches.
+SeedLearn is designed as a broader framework for plant identification in ecologically complex systems. We are starting with tropical tree seedlings because they are one of the most difficult life stages to identify in tropical forests, yet they are critical for understanding forest regeneration, biodiversity, and restoration outcomes.
+
+This first step allows us to build and test the project on a real, expert-curated dataset before expanding to additional plant stages, data types, and applications. In other words, seedlings are the current focus, but they are also the entry point for a larger long-term effort.
 
 <div class="seedlearn-box">
   <strong>Example seedling</strong>
@@ -118,7 +120,7 @@ SeedLearn is led by Nohemi Huanca-Nunez and brings together an interdisciplinary
 - <a href="https://striresearch.si.edu/quantitative-forest-ecology/lab-member/helene-muller-landau/" target="_blank" rel="noopener noreferrer">Helene Muller-Landau</a> — forest ecology and trait data integration
 - <a href="https://www.nybg.org/person/fabian-a-michelangeli/" target="_blank" rel="noopener noreferrer">Fabian Michelangeli</a> — tropical botany, systematics, and biodiversity research
 - <a href="https://engineering.yale.edu/research-and-faculty/faculty-directory/arman-cohan" target="_blank" rel="noopener noreferrer">Arman Cohan</a> — computer vision and AI methods
-- <a href="https://engineering.yale.edu/research-and-faculty/faculty-directory/holly-rushmeier" target="_blank" rel="noopener noreferrer">Holly Rushmeier</a> — computer graphics and visual computing
+- <a href="https://engineering.yale.edu/research-and-faculty/faculty-directory/holly-rushmeier" target="_blank" rel="noopener noreferrer">Holly Rushmeier</a> — Yale University; computer graphics and visual computing
 - <a href="https://environment.yale.edu/directory/staff/mitchell-horn" target="_blank" rel="noopener noreferrer">Mitch Horn</a> — AI and data science development and modeling pipeline
 - <a href="https://nlp.cs.yale.edu/team" target="_blank" rel="noopener noreferrer">Kaili Liu</a> — multimodal AI and knowledge integration
 - <a href="https://environment.yale.edu/directory/faculty/luke-browne" target="_blank" rel="noopener noreferrer">Luke Browne</a> — ecological data processing and data integration
@@ -134,6 +136,20 @@ This creates a major bottleneck for:
 - ecological research
 
 Current AI systems are typically trained on internet images and are not designed for these highly complex and data-limited environments. SeedLearn aims to bridge this gap.
+
+## Current Scope and Long-Term Vision
+
+SeedLearn begins with seedling identification because seedlings are among the hardest plant life stages to identify in the field, with many closely related species appearing remarkably similar at this stage.
+
+Our current scope includes:
+
+- tropical tree seedling images
+- expert-validated species identifications
+- initial multimodal AI model development
+
+Our long-term vision is to expand toward more general plant identification workflows by integrating additional life stages, richer trait information, and complementary data sources such as species descriptions, ecological context, and other plant measurements.
+
+This phased approach helps keep the project scientifically grounded while building toward a more general system over time.
 
 ## The Challenge
 
@@ -160,24 +176,25 @@ Current AI systems are typically trained on internet images and are not designed
 
 ## Dataset
 
-The project is built on a curated dataset of tropical seedling images collected through long-term ecological research.
+The current project is built on a curated dataset of tropical seedling images collected through long-term ecological research.
 
 - thousands of images of individual seedlings
 - multiple images per individual
 - broad taxonomic coverage across species, genera, and families
 - expert-validated identifications
 
-These data provide a unique foundation for developing and evaluating AI models in real-world ecological settings.
+These data provide a strong foundation for developing and evaluating AI models in real-world ecological settings, and they serve as the first stage of a broader identification framework.
 
 ## Current Progress
 
 - curated and organized a large seedling image dataset
 - developed initial AI modeling pipelines
 - ongoing model development and evaluation
+- defining how the framework can expand beyond seedlings as new datasets become available
 
 ## Project Support
 
-This project is supported by the <a href="https://ai.yale.edu/seed-grant-awards-2025">2025 Yale AI Seed Grant</a>, which enabled the initial development of the SeedLearn pipeline for AI-based seedling identification.
+This project is supported by the <a href="https://ai.yale.edu/seed-grant-awards-2025">2025 Yale AI Seed Grant</a>, which enabled the initial development of the SeedLearn pipeline, with seedlings as the first use case.
 
 ## Contact
 
