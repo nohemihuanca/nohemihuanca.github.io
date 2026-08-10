@@ -112,7 +112,7 @@ redirect_from:
         <p>I also examine how these strategies influence species interactions. Using 18 years of seedling data from Barro Colorado Island, Panama, I found that differences among species in conspecific negative density dependence align more strongly with integrated demographic strategies than with isolated functional traits (Huanca-Núñez et al. 2026, <em>Journal of Ecology</em>). My current work incorporates belowground traits and coordinated root–shoot strategies and extends these approaches across successional and drought gradients. Together, this research connects variation in plant form and function with species coexistence, community change, and forest resilience.</p>
       </div>
       <div class="figs">
-        <figure class="chart"><img src="images/site/fig-wooddensity.png" alt="Wood density is correlated between seedlings and adults"><figcaption>Seedling–adult wood density relationships — error-aware trait model, Functional Ecology, in review</figcaption></figure>
+        <figure class="chart"><img src="images/site/fig-wooddensity.png" alt="Wood density is correlated between seedlings and adults"><figcaption>Seedling–adult wood density relationships — error-aware trait model, Huanca-Núñez et al., <em>Functional Ecology</em>, in review</figcaption></figure>
         <figure class="chart"><img src="images/site/piper-grande-root.jpg" alt="Root scan of Piper grande"><figcaption>Root scan of <em>Piper grande</em> — belowground functional traits</figcaption></figure>
       </div>
     </div>
