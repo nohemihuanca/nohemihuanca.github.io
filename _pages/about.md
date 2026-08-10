@@ -127,7 +127,7 @@ redirect_from:
         <div class="sb"></div>
       </div>
       <div class="figs">
-        <figure class="chart"><img src="images/site/fig-ai-detection-depth.jpg" alt="Automated leaf detection (left) and AI-predicted depth map (right) of a tropical seedling"><figcaption>Automated leaf detection (left) and AI-predicted depth map (right) of a tropical seedling</figcaption></figure>
+        <figure class="chart"><img src="images/site/ai-leaf-depth-composite.png" alt="Leaf detection and AI-predicted depth map of a tropical seedling"><figcaption>Leaf detection and AI-predicted depth map for a tropical seedling</figcaption></figure>
         <figure class="photo"><img src="images/site/miconia-simplex-seedling.jpg" alt="Seedling of Miconia simplex"><figcaption>SeedLearn field image — <em>Miconia simplex</em></figcaption></figure>
         <figure class="photo"><img src="images/site/cojoba-rufescens-seedling.jpg" alt="Seedling of Cojoba rufescens"><figcaption>SeedLearn field image — <em>Cojoba rufescens</em></figcaption></figure>
       </div>
