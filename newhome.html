@@ -1,14 +1,5 @@
----
-permalink: /
-title:
-excerpt:
-layout: null
-author_profile: false
-redirect_from:
-  - /about/
-  - /about.html
----
-
+<!-- Standalone homepage for nohemihuanca.github.io — self-contained, no Jekyll layout needed.
+     Preview live at /newhome.html ; to make it your homepage, see the note at the bottom of this file. -->
 <meta charset="utf-8">
 <style>
   :root{--paper:#EEEDE5;--paper-2:#e4e3d9;--panel:#f8f6ef;--ink:#29312C;--ink-soft:#48534c;--muted:#6f766d;--amber:#B99A5B;--amber-deep:#94733a;--sage:#5f715f;--header:#15201B;--line:rgba(41,49,44,.14);--line-2:rgba(41,49,44,.08);--fig-bg:#fff;--spectral:linear-gradient(90deg,#5b4bd6,#3aa0d6,#4cc38a,#e3d24c,#e07a3c,#d64b6a);--serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;--sans:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;--mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace}
@@ -155,3 +146,21 @@ redirect_from:
   </section>
 </main>
 <footer>© Nohemi Huanca-Nunez · nohemihuanca.github.io</footer>
+
+<!--
+HOW TO USE THIS FILE
+====================
+Preview (nothing changes on your live site):
+  • Push this repo, then open  https://nohemihuanca.github.io/newhome.html
+  • Or locally:  bundle exec jekyll serve  → http://localhost:4000/newhome.html
+
+Make it your homepage when you are ready (pick ONE):
+  A) Simplest — turn your current About page into this design:
+     replace the contents of _pages/about.md with this file's HTML
+     (keep about.md's top --- front matter --- block, layout: none).
+  B) Or ask Claude to wire it into the Jekyll layout/nav properly.
+
+Images live in /images/site/. To swap the conspecific figure for your
+Stabilizing-CNDD figure, drop it in that folder and update the
+fig-predicted-cndd.png reference above.
+-->

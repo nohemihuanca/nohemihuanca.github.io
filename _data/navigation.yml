@@ -1,6 +1,7 @@
 # main links links
 main:
   - title: "Home"
+    url: /
     
   - title: "Publications"
     url: https://scholar.google.com/citations?user=cp5OMEIAAAAJ&hl=en&oi=ao

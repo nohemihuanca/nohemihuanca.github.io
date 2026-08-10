@@ -154,19 +154,19 @@ This phased approach helps keep the project scientifically grounded while buildi
 <div class="seedlearn-grid">
   <div class="seedlearn-card">
     <img src="/images/seedlearn-aphelandra-scabra.jpg" alt="Seedling of Aphelandra scabra">
-    <div class="seedlearn-card-caption"><em>Aphelandra scabra</em><br>Acanthaceae</div>
+    <div class="seedlearn-card-caption"><em>Aphelandra scabra</em><br>Family: Acanthaceae</div>
   </div>
   <div class="seedlearn-card">
     <img src="/images/seedlearn-miconia-simplex.jpg" alt="Seedling of Miconia simplex">
-    <div class="seedlearn-card-caption"><em>Miconia simplex</em><br>Melastomataceae</div>
+    <div class="seedlearn-card-caption"><em>Miconia simplex</em><br>Family: Melastomataceae</div>
   </div>
   <div class="seedlearn-card">
     <img src="/images/seedlearn-cojoba-rufescens.jpg" alt="Seedling of Cojoba rufescens">
-    <div class="seedlearn-card-caption"><em>Cojoba rufescens</em><br>Fabaceae</div>
+    <div class="seedlearn-card-caption"><em>Cojoba rufescens</em><br>Family: Fabaceae, Mimosoideae</div>
   </div>
   <div class="seedlearn-card">
     <img src="/images/seedlearn-alseis-blackiana.jpg" alt="Seedling of Alseis blackiana">
-    <div class="seedlearn-card-caption"><em>Alseis blackiana</em><br>Rubiaceae</div>
+    <div class="seedlearn-card-caption"><em>Alseis blackiana</em><br>Family: Rubiaceae</div>
   </div>
 </div>
 
@@ -174,7 +174,7 @@ This phased approach helps keep the project scientifically grounded while buildi
 
 ## Dataset
 
-The current project is built on a curated dataset of tropical seedling images collected through long-term ecological research.
+The current project is built on a curated dataset of tropical seedling <a href="https://www.inaturalist.org/projects/yale-stri-ai-seedling-project" target="_blank" rel="noopener noreferrer">images</a> collected through long-term ecological research.
 
 - thousands of images of individual seedlings
 - multiple images per individual
@@ -196,7 +196,7 @@ This project is supported by the <a href="https://ai.yale.edu/seed-grant-awards-
 
 ## Contact
 
-If you are interested in collaboration, datasets, or applications of this work, please feel free to reach out.
+If you are interested in collaborating, contributing datasets, or discussing future directions for this work, please feel free to reach out.
 
 Nohemi Huanca-Nunez  
 <a href="mailto:nohemi.huanca@yale.edu">nohemi.huanca@yale.edu</a>
