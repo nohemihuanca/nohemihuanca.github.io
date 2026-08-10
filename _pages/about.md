@@ -15,9 +15,9 @@ redirect_from:
   @media (prefers-color-scheme:dark){:root{--paper:#17130f;--paper-2:#1f1a14;--panel:#211b15;--ink:#efe7da;--ink-soft:#c3b6a3;--muted:#9d8f7c;--amber:#d68f45;--amber-deep:#c9812f;--sage:#8ca07e;--line:rgba(239,231,218,.14);--line-2:rgba(239,231,218,.07);--fig-bg:#f3f0ea}}
   *{box-sizing:border-box} html,body{margin:0;padding:0}
   body{background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.62;-webkit-font-smoothing:antialiased}
-  .wrap{max-width:1040px;margin:0 auto;padding:0 30px}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 30px}
   nav.top{position:sticky;top:0;z-index:10;background:color-mix(in srgb,var(--header) 92%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid rgba(238,237,229,.12)}
-  nav.top .r{display:flex;align-items:center;justify-content:space-between;max-width:1040px;margin:0 auto;padding:13px 30px}
+  nav.top .r{display:flex;align-items:center;justify-content:space-between;max-width:1180px;margin:0 auto;padding:13px 30px}
   .brand{display:flex;align-items:center;gap:10px;font-family:var(--serif);font-size:1.05rem;color:#f4f1e9;text-decoration:none}
   .brand svg{width:21px;height:25px}
   .links{display:flex;gap:14px;align-items:center;font-family:var(--mono);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;white-space:nowrap}
@@ -28,7 +28,7 @@ redirect_from:
   .eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--amber);margin:0 0 12px}
   header.hero h1{font-family:var(--serif);font-weight:500;font-size:clamp(2.5rem,7vw,4rem);line-height:1.05;margin:0;letter-spacing:0;text-wrap:balance}
   .role{margin:16px auto 0;max-width:42ch;color:#d8d0bb;font-size:1.06rem}.role b{color:#fffaf0;font-weight:600}
-  .band{display:grid;grid-template-columns:1fr 1fr;max-width:1040px;height:330px;margin:0 auto;overflow:hidden;border:1px solid var(--line);border-top:1px solid rgba(238,237,229,.12);background:#111}
+  .band{display:grid;grid-template-columns:1fr 1fr;height:330px;margin:0;overflow:hidden;border-top:1px solid rgba(238,237,229,.12);border-bottom:1px solid var(--line);background:#111}
   .band figure{position:relative;min-width:0;margin:0}
   .band figure + figure{border-left:none}
   .band figure::before{content:"";position:absolute;left:0;right:0;bottom:0;height:86px;z-index:1;background:linear-gradient(180deg,rgba(17,17,17,0),rgba(17,17,17,.5));pointer-events:none}
