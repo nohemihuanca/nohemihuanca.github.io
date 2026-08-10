@@ -39,6 +39,7 @@ redirect_from:
   .site-label{position:absolute;left:18px;bottom:16px;z-index:10;width:max-content;max-width:calc(100% - 36px);padding:7px 10px;border-radius:4px;background:rgba(23,19,15,.84);backdrop-filter:blur(4px);font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:#fffaf0;line-height:1.35;text-shadow:0 1px 5px rgba(0,0,0,.75);box-shadow:0 6px 18px rgba(0,0,0,.18);pointer-events:none}
   section{padding:46px 0;border-bottom:1px solid var(--line-2)}
   .sec-label{font-family:var(--mono);font-size:13.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--amber);margin:0 0 8px}
+  .contact-label{font-size:14.5px}
   h2{font-family:var(--serif);font-weight:500;font-size:clamp(1.6rem,4vw,2.15rem);margin:0 0 16px;letter-spacing:0}
   p{color:var(--ink-soft);font-size:17px} p.lead{font-size:1.22rem;color:var(--ink)}
   a.inline{color:var(--amber-deep);text-decoration:none;border-bottom:1px solid var(--amber)}
@@ -149,7 +150,7 @@ redirect_from:
     </div>
   </section>
   <section id="contact" style="border-bottom:none">
-    <p class="sec-label">Contact</p><h2>Let&#39;s talk about forests.</h2>
+    <p class="sec-label contact-label">Contact</p><h2>Let&#39;s talk about forests.</h2>
     <p>Yale School of the Environment · New Haven, CT</p>
     <div class="contact"><a href="mailto:nohemi.huanca@yale.edu">Email</a><a href="https://scholar.google.com/citations?user=cp5OMEIAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener">Google Scholar</a><a href="https://orcid.org/0000-0002-4603-827X" target="_blank" rel="noopener">ORCID</a><a href="https://github.com/nohemihuanca" target="_blank" rel="noopener">GitHub</a></div>
   </section>
