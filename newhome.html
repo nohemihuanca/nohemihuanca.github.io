@@ -19,13 +19,13 @@
   .eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--amber);margin:0 0 12px}
   header.hero h1{font-family:var(--serif);font-weight:500;font-size:clamp(2.5rem,7vw,4rem);line-height:1.05;margin:0;letter-spacing:0;text-wrap:balance}
   .role{margin:16px auto 0;max-width:42ch;color:#d8d0bb;font-size:1.06rem}.role b{color:#fffaf0;font-weight:600}
-  .band{display:grid;grid-template-columns:1fr 1fr;height:270px;margin:0;overflow:hidden;border-top:1px solid rgba(238,237,229,.12);border-bottom:1px solid var(--line);background:#111}
+  .band{display:grid;grid-template-columns:1fr 1fr;max-width:1040px;height:330px;margin:0 auto;overflow:hidden;border:1px solid var(--line);border-top:1px solid rgba(238,237,229,.12);background:#111}
   .band figure{position:relative;min-width:0;margin:0}
   .band figure + figure{border-left:none}
   .band figure::before{content:"";position:absolute;left:0;right:0;bottom:0;height:86px;z-index:1;background:linear-gradient(180deg,rgba(17,17,17,0),rgba(17,17,17,.5));pointer-events:none}
-  .band img{width:100%;height:100%;object-fit:cover;display:block;transform:scale(1.05)}
-  .band .bci img{object-position:42% 48%}
-  .band .cocha img{object-position:54% 50%}
+  .band img{width:100%;height:100%;object-fit:cover;display:block}
+  .band .bci img{object-position:50% 48%}
+  .band .cocha img{object-position:50% 50%}
   .band .bci::after{content:"";position:absolute;top:0;right:-36px;bottom:0;width:72px;z-index:1;background:linear-gradient(90deg,rgba(17,17,17,0),rgba(17,17,17,.24),rgba(17,17,17,0));pointer-events:none}
   .site-label{position:absolute;left:18px;bottom:16px;z-index:10;width:max-content;max-width:calc(100% - 36px);padding:7px 10px;border-radius:4px;background:rgba(23,19,15,.84);backdrop-filter:blur(4px);font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:#fffaf0;line-height:1.35;text-shadow:0 1px 5px rgba(0,0,0,.75);box-shadow:0 6px 18px rgba(0,0,0,.18);pointer-events:none}
   section{padding:46px 0;border-bottom:1px solid var(--line-2)}
