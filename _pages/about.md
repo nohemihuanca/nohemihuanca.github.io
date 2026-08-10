@@ -101,7 +101,6 @@ redirect_from:
       <div class="figs">
         <figure class="chart"><img src="images/site/fig-seedrain-2021.png" alt="Conceptual model of seed rain–successional feedbacks · Huanca-Núñez et al. 2021, Ecology"><figcaption>Conceptual model of seed rain–successional feedbacks · Huanca-Núñez et al. 2021, Ecology</figcaption></figure>
         <figure class="chart"><img src="images/site/cocha-cashu-treefall-zones.jpg" alt="Map of disturbance zones from treefalls in the Cocha Cashu forest plot"><figcaption>Treefall disturbance zones in the Cocha Cashu forest plot, Peru — Terborgh, Huanca-Núñez et al. 2020, <em>Ecology</em></figcaption></figure>
-        <figure class="photo"><img src="images/site/disp-peccary.jpg" alt="Collared peccary — a large-bodied disperser and seedling herbivore"><figcaption>Collared peccary — a large-bodied disperser and seedling herbivore</figcaption></figure>
       </div>
     </div>
     <div class="row">
