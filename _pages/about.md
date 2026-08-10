@@ -52,7 +52,6 @@ redirect_from:
   figure{margin:0} figure img{width:100%;display:block;border-radius:12px;border:1px solid var(--line)}
   figure.photo img{height:200px;object-fit:cover}
   figure.chart img{background:var(--fig-bg);object-fit:contain;max-height:330px;padding:4px}
-  figure.tall-chart img{max-height:560px}
   figcaption{font-family:var(--mono);font-size:10px;letter-spacing:.04em;color:var(--muted);margin-top:7px;text-transform:uppercase;line-height:1.5}
   .sb{height:3px;border-radius:3px;background:var(--spectral);margin:4px 0 0;opacity:.9;width:150px}
   .pubs{list-style:none;padding:0;margin:0} .pubs li{padding:15px 0;border-bottom:1px solid var(--line-2)}
@@ -114,7 +113,7 @@ redirect_from:
       </div>
       <div class="figs">
         <figure class="chart"><img src="images/site/fig-wooddensity.png" alt="Wood density is correlated between seedlings and adults"><figcaption>Seedling–adult wood density relationships — error-aware trait model, Huanca-Núñez et al., <em>Functional Ecology</em>, in review</figcaption></figure>
-        <figure class="chart tall-chart"><img src="images/site/piper-grande-root.jpg" alt="Root scan of Piper grande"><figcaption>Root scan of <em>Piper grande</em> — belowground functional traits</figcaption></figure>
+        <figure class="chart"><img src="images/site/piper-grande-root-horizontal.jpg" alt="Root scan of Piper grande"><figcaption>Root scan of <em>Piper grande</em> — belowground functional traits</figcaption></figure>
       </div>
     </div>
     <div class="row rev">
