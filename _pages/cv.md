@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * Ph.D. Ecology and Evolutionary Biology. Advisor: Dr. S.E. Russo. University of Nebraska-Lincoln 2022 	
-* M.SC, University of Nebraska-Lincoln 2017
+* M.Sc., University of Nebraska-Lincoln 2017
 * A.B. Biology, with Honors; Universidad Nacional de San Antonio Abad del Cusco, Perú 2011
 
 
-Professional Appoitments
+Professional Appointments
 ======
 2025-present		Associate Research Scientist, Yale University.
                 Faculty Mentor: Dr. Liza Comita
@@ -27,7 +27,7 @@ Professional Appoitments
 2022-2024	      Gaylord Donnelley Fellowship, Postdoctoral Research Associate, Yale Institute for Biospheric Studies,         
                 Yale University 
 
-Spring 2022			NASA Develop program Internship
+Spring 2022			NASA DEVELOP Program Internship
 
 2017-2021			  Teaching Assistant, Department of Biological Sciences, 
                 University of Nebraska-Lincoln
