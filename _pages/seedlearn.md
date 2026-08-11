@@ -5,6 +5,37 @@ author_profile: true
 ---
 
 <style>
+body {
+  background: #eeede5;
+  color: #29312c;
+}
+
+.archive,
+.page,
+.page__content,
+.initial-content {
+  background: transparent;
+}
+
+.page__content {
+  color: #29312c;
+}
+
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+  color: #29312c;
+}
+
+.page__content p,
+.page__content li {
+  color: #48534c;
+}
+
+.page__content a {
+  color: #94733a;
+}
+
 .seedlearn-hero {
   margin: 0 0 2rem 0;
   padding: 2.75rem 2rem;
@@ -29,8 +60,9 @@ author_profile: true
   margin: 1.5rem 0;
   padding: 1rem;
   border-radius: 14px;
-  background: #f8faf6;
-  border: 1px solid #d9e3d2;
+  background: #f8f6ef;
+  border: 1px solid rgba(41, 49, 44, 0.12);
+  box-shadow: 0 14px 34px rgba(41, 49, 44, 0.07);
 }
 
 .seedlearn-box p {
@@ -55,9 +87,10 @@ author_profile: true
 .seedlearn-card {
   min-height: 155px;
   border-radius: 14px;
-  background: linear-gradient(180deg, #f7f3e8 0%, #eef5ea 100%);
-  border: 1px solid #dde7d8;
+  background: linear-gradient(180deg, #f8f6ef 0%, #e8ede1 100%);
+  border: 1px solid rgba(41, 49, 44, 0.12);
   overflow: hidden;
+  box-shadow: 0 12px 28px rgba(41, 49, 44, 0.07);
 }
 
 .seedlearn-card img {
@@ -78,8 +111,8 @@ author_profile: true
   margin: 1.25rem 0 1.75rem 0;
   padding: 1rem;
   border-radius: 14px;
-  background: #fbfcf8;
-  border: 1px dashed #b9c9b3;
+  background: #f8f6ef;
+  border: 1px dashed rgba(95, 113, 95, 0.38);
 }
 
 .seedlearn-pipeline strong {
