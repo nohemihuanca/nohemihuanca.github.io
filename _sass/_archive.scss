@@ -25,6 +25,18 @@
       }
     }
   }
+
+  @include breakpoint(max-width $medium) {
+    p, li, dl {
+      font-size: 1.125em;
+      line-height: 1.68;
+    }
+
+    .page__title {
+      font-size: 2.15em;
+      line-height: 1.08;
+    }
+  }
 }
 
 .archive__subtitle {
@@ -63,6 +75,11 @@
 
   & + p {
     text-indent: 0;
+  }
+
+  @include breakpoint(max-width $medium) {
+    font-size: 1.05em;
+    line-height: 1.6;
   }
 }
 

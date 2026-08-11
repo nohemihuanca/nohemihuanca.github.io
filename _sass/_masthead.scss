@@ -29,6 +29,16 @@
       text-decoration: none;
     }
   }
+
+  @include breakpoint(max-width $medium) {
+    background: #15201b;
+    border-bottom-color: rgba(238, 237, 229, 0.14);
+    box-shadow: 0 1px 0 rgba(238, 237, 229, 0.1);
+
+    &__inner-wrap {
+      padding: 0.75em 1em;
+    }
+  }
 }
 
 .masthead__menu {

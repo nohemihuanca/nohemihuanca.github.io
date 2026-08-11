@@ -14,6 +14,21 @@ var breaks = [];
 
 function updateNav() {
 
+  if($(window).width() <= 768) {
+    $vlinks.children().not(':first-child').appendTo($hlinks);
+    breaks = [];
+    if($hlinks.children().length) {
+      $btn.removeClass('hidden');
+    }
+    $btn.attr("count", $hlinks.children().length);
+    return;
+  }
+
+  if($hlinks.children().length && breaks.length === 0) {
+    $hlinks.children().appendTo($vlinks);
+    $hlinks.addClass('hidden');
+  }
+
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 
   // The visible list is overflowing the nav
