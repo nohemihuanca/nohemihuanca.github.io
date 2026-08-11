@@ -16,7 +16,7 @@ author_profile: false
   nav.top .r{display:flex;align-items:center;justify-content:space-between;max-width:1180px;margin:0 auto;padding:13px 30px}
   .brand{display:flex;align-items:center;gap:10px;font-family:var(--serif);font-size:1.05rem;color:#f4f1e9;text-decoration:none}
   .brand svg{width:21px;height:25px}
-  .links{display:flex;gap:10px;align-items:center;font-family:var(--mono);font-size:14.5px;letter-spacing:.035em;text-transform:uppercase;white-space:nowrap}
+  .links{display:flex;gap:10px;align-items:center;font-family:var(--mono);font-size:14px;letter-spacing:.035em;text-transform:uppercase;white-space:nowrap}
   .links a{color:#d8d0bb;text-decoration:none}.links a:hover{color:#fff6dc}.links .arr{color:var(--amber)}
   .band{display:grid;grid-template-columns:1fr 1fr;height:250px;margin:0;overflow:hidden;border-top:1px solid rgba(238,237,229,.12);border-bottom:1px solid var(--line);background:#111}
   .band figure{position:relative;margin:0;min-width:0}.band figure::before{content:"";position:absolute;left:0;right:0;bottom:0;height:76px;z-index:1;background:linear-gradient(180deg,rgba(17,17,17,0),rgba(17,17,17,.5))}
