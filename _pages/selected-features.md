@@ -16,7 +16,7 @@ author_profile: false
   nav.top .r{display:flex;align-items:center;justify-content:space-between;max-width:1180px;margin:0 auto;padding:13px 30px}
   .brand{display:flex;align-items:center;gap:10px;font-family:var(--serif);font-size:1.05rem;color:#f4f1e9;text-decoration:none}
   .brand svg{width:21px;height:25px}
-  .links{display:flex;gap:14px;align-items:center;font-family:var(--mono);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;white-space:nowrap}
+  .links{display:flex;gap:12px;align-items:center;font-family:var(--mono);font-size:12.5px;letter-spacing:.06em;text-transform:uppercase;white-space:nowrap}
   .links a{color:#d8d0bb;text-decoration:none}.links a:hover{color:#fff6dc}.links .arr{color:var(--amber)}
   header.hero{padding:70px 30px 46px;background:var(--header);color:#f4f1e9;text-align:center}
   .eyebrow{font-family:var(--mono);font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:var(--amber);margin:0 0 12px}
