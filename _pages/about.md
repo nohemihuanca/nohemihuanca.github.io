@@ -22,6 +22,7 @@ redirect_from:
   .brand svg{width:21px;height:25px}
   .links{display:flex;gap:10px;align-items:center;font-family:var(--mono);font-size:14px;letter-spacing:.035em;text-transform:uppercase;white-space:nowrap}
   .links a{color:#d8d0bb;text-decoration:none} .links a:hover{color:#fff6dc}.links .arr{color:var(--amber)}
+  .menu-toggle{display:none;appearance:none;border:1px solid rgba(238,237,229,.24);border-radius:6px;background:rgba(244,241,233,.08);color:#f4f1e9;font-family:var(--mono);font-size:12px;letter-spacing:.09em;text-transform:uppercase;min-width:54px;min-height:46px;padding:0 12px;align-items:center;justify-content:center}
   header.hero{text-align:center;padding:56px 30px 28px;background:var(--header);color:#f4f1e9}
   .portrait{width:184px;height:184px;margin:0 auto 24px;border-radius:50%;padding:6px;background:linear-gradient(150deg,var(--amber),var(--sage));box-shadow:0 14px 40px rgba(42,35,27,.22)}
   .portrait img{width:100%;height:100%;object-fit:cover;object-position:50% 20%;border-radius:50%;display:block;border:3px solid var(--panel)}
@@ -65,12 +66,30 @@ redirect_from:
   .seedlearn .image-caption{font-family:var(--mono);font-size:10px;letter-spacing:.04em;color:var(--muted);margin-top:7px;text-transform:uppercase;line-height:1.5}
   .contact{display:flex;flex-wrap:wrap;gap:12px 24px;font-family:var(--mono);font-size:14px;margin-top:4px} .contact a{color:var(--muted);text-decoration:none} .contact a:hover{color:var(--amber-deep)}
   footer{padding:34px 0 56px;text-align:center;font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted)}
-  @media (max-width:680px){.links{display:none}.band{grid-template-columns:1fr;height:auto}.band figure{height:230px}.band figure + figure{border-left:none;border-top:none}.band .bci::after{top:auto;right:0;left:0;bottom:-28px;width:auto;height:56px;background:linear-gradient(180deg,rgba(17,17,17,0),rgba(17,17,17,.28),rgba(17,17,17,0))}.site-label{font-size:10px;left:12px;bottom:12px;max-width:calc(100% - 24px)}.sec-label{letter-spacing:.16em}.row,.row.rev,.seedlearn{grid-template-columns:1fr}.row.rev .txt{order:0}.figs{position:static}}
+  @media (max-width:925px){body{font-size:18px;line-height:1.68}.wrap{padding:0 22px}nav.top .r{position:relative;padding:10px 14px}.brand{font-size:1rem;max-width:calc(100% - 68px);line-height:1.15}.menu-toggle{display:inline-flex;font-size:13px}.links{display:none;position:absolute;top:calc(100% + 8px);right:14px;width:min(250px,calc(100vw - 28px));padding:8px;background:var(--header);border:1px solid rgba(238,237,229,.16);border-radius:8px;box-shadow:0 18px 36px rgba(0,0,0,.28);white-space:normal}.links.open{display:flex;flex-direction:column;align-items:stretch;gap:2px}.links a{display:block;min-height:48px;padding:13px 14px;border-radius:5px;font-size:14px;line-height:1.25}.links a:hover,.links a:focus{background:rgba(244,241,233,.08)}header.hero{padding:52px 24px 30px}.role{font-size:1.12rem}.eyebrow{font-size:13.5px}p{font-size:18px}p.lead{font-size:1.3rem}.row .txt p{font-size:1.08rem}.row h3{font-size:1.46rem}.sec-label{font-size:14px;letter-spacing:.16em}.major-label,.contact-label{font-size:15px}.contact{font-size:15px}.band{grid-template-columns:1fr;height:auto}.band figure{height:230px}.band figure + figure{border-left:none;border-top:none}.band .bci::after{top:auto;right:0;left:0;bottom:-28px;width:auto;height:56px;background:linear-gradient(180deg,rgba(17,17,17,0),rgba(17,17,17,.28),rgba(17,17,17,0))}.site-label{font-size:10.5px;left:12px;bottom:12px;max-width:calc(100% - 24px)}.row,.row.rev,.seedlearn{grid-template-columns:1fr}.row.rev .txt{order:0}.figs{position:static}}
 </style>
 <nav class="top"><div class="r">
   <a class="brand" href="#top"><svg viewBox="0 0 22 26" fill="none" aria-hidden="true"><line x1="3" y1="16" x2="19" y2="16" stroke="var(--line)" stroke-width="1"/><path d="M11 16 L11 7" stroke="var(--amber)" stroke-width="1.8" stroke-linecap="round"/><path d="M11 9 C5 8 2 4 2 1 C7 1.5 10 4.5 11 9 Z" fill="var(--sage)"/><path d="M11 9 C17 8 20 4 20 1 C15 1.5 12 4.5 11 9 Z" fill="var(--amber)"/><path d="M11 16 C10 20 7 22 5 25" stroke="var(--amber-deep)" stroke-width="1.3" stroke-linecap="round"/><path d="M11 16 C12 20 15 22 17 24.5" stroke="var(--amber-deep)" stroke-width="1.3" stroke-linecap="round"/></svg>Nohemi Huanca-Nunez, Ph.D.</a>
-  <div class="links"><a href="#about">About</a><a href="#research">Research</a><a href="https://scholar.google.com/citations?user=cp5OMEIAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener">Publications <span class="arr">&#8599;</span></a><a href="https://nohemihuanca.github.io/selected-features/">Selected Features</a><a href="https://nohemihuanca.github.io/seedlearn/">SeedLearn</a><a href="#contact">Contact</a></div>
+  <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="top-links">Menu</button>
+  <div class="links" id="top-links"><a href="#about">About</a><a href="#research">Research</a><a href="https://scholar.google.com/citations?user=cp5OMEIAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener">Publications <span class="arr">&#8599;</span></a><a href="https://nohemihuanca.github.io/selected-features/">Selected Features</a><a href="https://nohemihuanca.github.io/seedlearn/">SeedLearn</a><a href="#contact">Contact</a></div>
 </div></nav>
+<script>
+  (function(){
+    var button=document.querySelector(".menu-toggle");
+    var links=document.getElementById("top-links");
+    if(!button||!links){return}
+    button.addEventListener("click",function(){
+      var isOpen=links.classList.toggle("open");
+      button.setAttribute("aria-expanded",isOpen?"true":"false");
+    });
+    links.addEventListener("click",function(event){
+      if(event.target.closest("a")){
+        links.classList.remove("open");
+        button.setAttribute("aria-expanded","false");
+      }
+    });
+  })();
+</script>
 <a id="top"></a>
 <header class="hero">
   <div class="portrait"><img src="images/site/portrait.jpg" alt="Nohemi Huanca-Nunez"></div>
