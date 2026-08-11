@@ -6,6 +6,7 @@ author_profile: false
 ---
 
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
   :root{--paper:#EEEDE5;--panel:#f8f6ef;--ink:#29312C;--ink-soft:#48534c;--muted:#6f766d;--amber:#B99A5B;--amber-deep:#94733a;--sage:#5f715f;--header:#15201B;--line:rgba(41,49,44,.14);--line-2:rgba(41,49,44,.08);--serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;--sans:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;--mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace}
   @media (prefers-color-scheme:dark){:root{--paper:#17130f;--panel:#211b15;--ink:#efe7da;--ink-soft:#c3b6a3;--muted:#9d8f7c;--amber:#d68f45;--amber-deep:#c9812f;--sage:#8ca07e;--line:rgba(239,231,218,.14);--line-2:rgba(239,231,218,.07)}}
@@ -18,6 +19,7 @@ author_profile: false
   .brand svg{width:21px;height:25px}
   .links{display:flex;gap:10px;align-items:center;font-family:var(--mono);font-size:14px;letter-spacing:.035em;text-transform:uppercase;white-space:nowrap}
   .links a{color:#d8d0bb;text-decoration:none}.links a:hover{color:#fff6dc}.links .arr{color:var(--amber)}
+  .menu-toggle{display:none;appearance:none;border:1px solid rgba(238,237,229,.24);border-radius:6px;background:rgba(244,241,233,.08);color:#f4f1e9;font-family:var(--mono);font-size:12px;letter-spacing:.09em;text-transform:uppercase;min-width:54px;min-height:46px;padding:0 12px;align-items:center;justify-content:center}
   .band{display:grid;grid-template-columns:1fr 1fr;height:250px;margin:0;overflow:hidden;border-top:1px solid rgba(238,237,229,.12);border-bottom:1px solid var(--line);background:#111}
   .band figure{position:relative;margin:0;min-width:0}.band figure::before{content:"";position:absolute;left:0;right:0;bottom:0;height:76px;z-index:1;background:linear-gradient(180deg,rgba(17,17,17,0),rgba(17,17,17,.5))}
   .band img{width:100%;height:100%;object-fit:cover;display:block}.band .bci img{object-position:50% 48%}.band .cocha img{object-position:50% 50%}
@@ -35,13 +37,65 @@ author_profile: false
   .arrow{font-family:var(--mono);font-size:1.1rem;color:var(--amber);transition:transform .18s ease,color .18s ease}
   .back{display:inline-flex;align-items:center;gap:8px;margin-bottom:48px;font-family:var(--mono);font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--paper);background:var(--amber-deep);padding:12px 20px;border-radius:999px;text-decoration:none;font-weight:600}.back:hover{background:var(--amber)}
   footer{padding:34px 0 56px;text-align:center;font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted)}
-  @media (max-width:760px){.links{display:none}.band{grid-template-columns:1fr;height:auto}.band figure{height:210px}.band .bci::after{top:auto;right:0;left:0;bottom:-28px;width:auto;height:56px;background:linear-gradient(180deg,rgba(17,17,17,0),rgba(17,17,17,.28),rgba(17,17,17,0))}.site-label{font-size:10px;left:12px;bottom:12px;max-width:calc(100% - 24px)}.sec-label{letter-spacing:.14em}.feature{grid-template-columns:1fr auto;gap:10px 14px}.meta{grid-column:1 / -1}.desc{font-size:.95rem}}
+  @media (max-width:925px){
+    body{font-size:16px;line-height:1.6}
+    .wrap{padding:0 18px}
+    nav.top .r{position:relative;padding:9px 12px}
+    .brand{font-size:.94rem;max-width:calc(100% - 64px);line-height:1.12;gap:8px}
+    .brand svg{width:18px;height:22px;flex:0 0 auto}
+    .menu-toggle{display:inline-flex;font-size:12px;min-height:42px;min-width:50px;padding:0 10px}
+    .links{display:none!important;position:absolute;top:calc(100% + 7px);right:12px;width:calc(100vw - 24px);max-width:270px;padding:7px;background:var(--header);border:1px solid rgba(238,237,229,.16);border-radius:8px;box-shadow:0 18px 36px rgba(0,0,0,.28);white-space:normal}
+    .links.open{display:flex!important;flex-direction:column;align-items:stretch;gap:2px}
+    .links a{display:block;min-height:46px;padding:12px 13px;border-radius:5px;font-size:13px;line-height:1.25}
+    .links a:hover,.links a:focus{background:rgba(244,241,233,.08)}
+    .band{grid-template-columns:1fr 1fr;height:164px}
+    .band figure{height:164px}
+    .band figure + figure{border-left:1px solid rgba(238,237,229,.1)}
+    .band figure::before{height:72px}
+    .band .bci::after{top:0;right:-20px;bottom:0;left:auto;width:40px;height:auto;background:linear-gradient(90deg,rgba(17,17,17,0),rgba(17,17,17,.22),rgba(17,17,17,0))}
+    .site-label{font-size:9px;left:9px;bottom:9px;max-width:calc(100% - 18px);padding:6px 7px;line-height:1.2}
+    main{padding:34px 0 0}
+    .page-title{font-size:1.9rem;line-height:1.1;margin-bottom:16px}
+    .sec-label{font-size:11.5px;letter-spacing:.14em}
+    .features{gap:0;margin:18px 0 36px}
+    .feature{grid-template-columns:1fr auto;gap:9px 14px;padding:16px 0}
+    .meta{grid-column:1 / -1;font-size:9.5px;letter-spacing:.09em}
+    .title{font-size:1rem;line-height:1.32}
+    .desc{font-size:.9rem;line-height:1.45}
+    .arrow{font-size:1rem}
+    .back{width:100%;justify-content:center;margin-bottom:38px;padding:12px 16px;border-radius:8px;font-size:10.5px;line-height:1.3;text-align:center}
+    footer{padding:28px 18px 42px;font-size:9.5px;line-height:1.5}
+  }
+  @media (max-width:520px){
+    .wrap{padding:0 16px}
+    .brand{font-size:.86rem}
+    .band{height:142px}
+    .band figure{height:142px}
+  }
 </style>
 
 <nav class="top"><div class="r">
   <a class="brand" href="/"><svg viewBox="0 0 22 26" fill="none" aria-hidden="true"><line x1="3" y1="16" x2="19" y2="16" stroke="var(--line)" stroke-width="1"/><path d="M11 16 L11 7" stroke="var(--amber)" stroke-width="1.8" stroke-linecap="round"/><path d="M11 9 C5 8 2 4 2 1 C7 1.5 10 4.5 11 9 Z" fill="var(--sage)"/><path d="M11 9 C17 8 20 4 20 1 C15 1.5 12 4.5 11 9 Z" fill="var(--amber)"/><path d="M11 16 C10 20 7 22 5 25" stroke="var(--amber-deep)" stroke-width="1.3" stroke-linecap="round"/><path d="M11 16 C12 20 15 22 17 24.5" stroke="var(--amber-deep)" stroke-width="1.3" stroke-linecap="round"/></svg>Nohemi Huanca-Nunez, Ph.D.</a>
-  <div class="links"><a href="/">Home</a><a href="/#research">Research</a><a href="https://scholar.google.com/citations?user=cp5OMEIAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener">Publications <span class="arr">&#8599;</span></a><a href="/seedlearn/">SeedLearn</a><a href="/#contact">Contact</a></div>
+  <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="top-links">Menu</button>
+  <div class="links" id="top-links"><a href="/">Home</a><a href="/#research">Research</a><a href="https://scholar.google.com/citations?user=cp5OMEIAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener">Publications <span class="arr">&#8599;</span></a><a href="/seedlearn/">SeedLearn</a><a href="/#contact">Contact</a></div>
 </div></nav>
+<script>
+  (function(){
+    var button=document.querySelector(".menu-toggle");
+    var links=document.getElementById("top-links");
+    if(!button||!links){return}
+    button.addEventListener("click",function(){
+      var isOpen=links.classList.toggle("open");
+      button.setAttribute("aria-expanded",isOpen?"true":"false");
+    });
+    links.addEventListener("click",function(event){
+      if(event.target.closest("a")){
+        links.classList.remove("open");
+        button.setAttribute("aria-expanded","false");
+      }
+    });
+  })();
+</script>
 
 <div class="band" aria-label="Lowland tropical forest field sites">
   <figure class="bci"><img src="/images/site/band.jpg" alt="Lowland tropical forest at Barro Colorado Island, Panama"><span class="site-label">BCI, Panama</span></figure>
