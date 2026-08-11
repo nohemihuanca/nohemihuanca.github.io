@@ -174,7 +174,7 @@ This phased approach helps keep the project scientifically grounded while buildi
 
 ## Dataset
 
-The current project is built on a curated dataset of tropical seedling <a href="https://www.inaturalist.org/projects/yale-stri-ai-seedling-project" target="_blank" rel="noopener noreferrer">images</a> collected through long-term ecological research.
+The current project is built on a curated dataset of tropical <a href="https://www.inaturalist.org/projects/yale-stri-ai-seedling-project" target="_blank" rel="noopener noreferrer">seedling images</a> collected through long-term ecological research.
 
 - thousands of images of individual seedlings
 - multiple images per individual
