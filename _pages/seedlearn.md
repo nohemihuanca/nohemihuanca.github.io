@@ -10,6 +10,45 @@ body {
   color: #29312c;
 }
 
+.masthead,
+.greedy-nav {
+  background: #15201b;
+  border-bottom-color: rgba(238, 237, 229, 0.14);
+}
+
+.masthead {
+  box-shadow: 0 1px 0 rgba(238, 237, 229, 0.1);
+}
+
+.greedy-nav a,
+.greedy-nav .visible-links a,
+.greedy-nav .hidden-links a,
+.masthead__menu-item a {
+  color: #d8d0bb;
+}
+
+.greedy-nav a:hover,
+.greedy-nav .visible-links a:hover,
+.greedy-nav .hidden-links a:hover,
+.masthead__menu-item a:hover {
+  color: #fff6dc;
+}
+
+.greedy-nav button {
+  background-color: #15201b;
+}
+
+.navicon,
+.navicon::before,
+.navicon::after {
+  background: #d8d0bb;
+}
+
+.greedy-nav .hidden-links {
+  background: #15201b;
+  border-color: rgba(238, 237, 229, 0.14);
+}
+
 .archive,
 .page,
 .page__content,
